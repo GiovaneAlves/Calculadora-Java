@@ -1,3 +1,3 @@
 # Calculadora-Java
 
-- __Projeto:__ Fazer uma calculadora usando a linguagem Java, executando teste unitario.
+- __Projeto:__ Fazer uma calculadora usando a linguagem Java, executando teste unitário.
