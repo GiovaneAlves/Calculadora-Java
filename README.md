@@ -2,7 +2,8 @@
 
 - __Projeto:__ Fazer uma calculadora usando a linguagem Java, executando teste unitário.
 
-## __Atividade Proposta__:
+
+### __Atividade Proposta__:
 ---
 ```Escreva uma Calculadora em Java que contenha uma classe chamada 
 Calculadora.Java .
@@ -19,7 +20,7 @@ Escreva os algoritmos de todos os métodos acima.
      
 
 
-## __Ferramentas utilizadas:__
+### __Ferramentas utilizadas:__
 ---
 - Eclipse - para criação de toda o programação utilizando a linguagem Java.
 
@@ -31,7 +32,8 @@ Escreva os algoritmos de todos os métodos acima.
 
 - GitHub - para compartilhamento de todo projeto desenvolvido.
 
-## __Passo a passo:__
+
+### __Passo a passo:__
 
 1- Foi criado um new project no eclipse.  
 
