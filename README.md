@@ -4,7 +4,7 @@
 
 ## __Atividade Proposta__:
 ---
-~~~Escreva uma Calculadora em Java que contenha uma classe chamada 
+```Escreva uma Calculadora em Java que contenha uma classe chamada 
 Calculadora.Java .
 Essa classe terá os métodos:
 
@@ -15,7 +15,7 @@ dividir(numeroUm / numeroDois)
 potenciar(numeroUm ^ numeroDois)
 
 Escreva os algoritmos de todos os métodos acima.
-~~~   
+```   
      
 
 
